@@ -1,3 +1,5 @@
+This project has been developed for those who are new to automation !
+
 STEP BY STEP CREATING A TESTING PROJECT. ( ENGLISH )
 
 1- You need the download **IntelliJ Idea** you can use this link
